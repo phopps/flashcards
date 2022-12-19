@@ -1,0 +1,28 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "Flashcard materials for \u001b[3~\u001b[3~\u001b[3~to use with Anki for interview prep\u001b[3~\u001b[3~practice.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phopps/flashcards.git"
+  },
+  "keywords": [
+    "flashcards",
+    "flashcard",
+    "anki",
+    "interview",
+    "study",
+    "practice"
+  ],
+  "author": "phopps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phopps/flashcards/issues"
+  },
+  "homepage": "https://github.com/phopps/flashcards#readme"
+}
